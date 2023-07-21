@@ -2,4 +2,4 @@
 This is the 3rd report from my Artificial Life and Cognitive Sciences classes.
 
 # Summary
-The main idea was to implement the evolutionary algorithm to solve the TSP problem based on the map of Poland
+The main idea was to implement the evolutionary algorithm to solve the TSP problem based on the map of Poland.
